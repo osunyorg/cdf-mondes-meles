@@ -2,6 +2,11 @@
 
 baseURL: https://site.mondes-meles.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 75244b41-63fd-4fe6-985d-0bbf3c043999
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
